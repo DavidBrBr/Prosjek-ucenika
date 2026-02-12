@@ -1,4 +1,6 @@
 # Prosjek-ucenika
-## Racuna prosjek ucenika
-##-David.B
-###HYAČ
+Racuna prosjek ucenika
+
+##-David-B
+
+HYAČ
