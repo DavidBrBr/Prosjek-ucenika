@@ -1,6 +1,6 @@
 # Prosjek-ucenika
 Racuna prosjek ucenika
 
-##-David-B
+DavidB
 
 HYAČ
