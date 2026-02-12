@@ -1,0 +1,11 @@
+x = int(input("Unesite broj ucenika: "))
+wf = 0.00
+
+for i in range(1, x + 1):
+    j = float(input(f"Unesite prosjek {i}. ucenika: "))
+    wf += j
+
+fd = wf / x
+
+print("Prosjek razreda je: ", fd)
+
