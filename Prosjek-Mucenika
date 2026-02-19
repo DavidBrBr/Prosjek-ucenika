@@ -8,3 +8,6 @@ for i in range(1, x + 1):
 fd = wf / x
 
 print("Prosjek razreda: ", fd)
+
+// Terry Davis 
+// Designed for TempleOS
